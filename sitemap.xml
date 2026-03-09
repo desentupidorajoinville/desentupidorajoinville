@@ -8,7 +8,7 @@
 <!-- Página Principal -->
 <url>
   <loc>https://desentupidorajoinville.app.br/</loc>
-  <lastmod>2026-03-08T01:22:10+00:00</lastmod>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
@@ -16,7 +16,7 @@
 <!-- Página de Desentupimento em Joinville -->
 <url>
   <loc>https://desentupidorajoinville.app.br/desentupimento-joinville.html</loc>
-  <lastmod>2026-03-08T01:22:10+00:00</lastmod>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.9</priority>
 </url>
@@ -24,7 +24,7 @@
 <!-- Página de Contato -->
 <url>
   <loc>https://desentupidorajoinville.app.br/contato.html</loc>
-  <lastmod>2026-03-08T01:22:10+00:00</lastmod>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
@@ -32,9 +32,262 @@
 <!-- Página de Política de Privacidade -->
 <url>
   <loc>https://desentupidorajoinville.app.br/politica-de-privacidade.html</loc>
-  <lastmod>2026-03-08T01:22:10+00:00</lastmod>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
   <changefreq>yearly</changefreq>
   <priority>0.5</priority>
 </url>
 
+<!-- Páginas de Bairros -->
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/locais-atendimento.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/america.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/atiradores.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/bom-retiro.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/centro.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/costa-e-silva.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/dona-francisca.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/gloria.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/jardim-paraiso.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/jardim-sofia.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/pirabeiraba.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/rio-bonito.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/saguacu.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/santo-antonio.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/adhemar-garcia.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/anita-garibaldi.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/boehmerwald.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/bucarein.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/fatima.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/floresta.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/guanabara.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/itaum.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/itinga.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/jarivatuba.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/joao-costa.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/paranaguamirim.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/parque-guarani.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/petropolis.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/profipo.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/santa-catarina.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/ulysses-guimaraes.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/aventureiro.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/boa-vista.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/comasa.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/espinheiros.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/iririu.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/jardim-iririu.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/vila-cubatao.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/morro-do-meio.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/nova-brasilia.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/sao-marcos.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://desentupidorajoinville.app.br/bairros/vila-nova.html</loc>
+  <lastmod>2026-03-09T09:15:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
 </urlset>
